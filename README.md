@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mohit Nagpal
-- 👀 I’m interested in Development
+- 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Full Stack Development
 - 📫 You can reach me on mohit.nagpal29@gmail.com
 
